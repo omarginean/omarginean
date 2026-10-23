@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Ovidiu 👋
 
-<!--
-**omarginean/omarginean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior marketing leader based in Stockholm. I build and run marketing functions in B2B SaaS and marketplace companies: demand generation, GTM, revenue, and the operating model behind it.
 
-Here are some ideas to get you started:
+Stockholm, Sweden 🇸🇪
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently:
+
+- Running marketing at [Academic Positions](https://academicpositions.com/)
+- Mentoring other marketers on [GrowthMentor](https://www.growthmentor.com/)
+- Building small AI tools for the marketing work I'd rather not do by hand
+
+Find me on [LinkedIn](https://www.linkedin.com/in/ovidiumarginean/).
